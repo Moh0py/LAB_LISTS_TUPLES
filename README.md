@@ -9,7 +9,7 @@ Create A small cinema program that uses a basic system to track **booked seats**
 
 You are given a list of booked seats for a movie show. Each seat is represented as a tuple `(row, seat)` where:
 
-* `row` is an integer from 1 to 10
+* `row` is an integer from 1 to 10 
 * `seat` is an integer from 1 to 20
 
 Example:
